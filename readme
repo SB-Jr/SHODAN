@@ -1,0 +1,10 @@
+Title: SHODAN
+Author: Shrijit Basak (SBJr)
+Type: Automation/Intelligent Assistant/AI
+Description: Currently this is just a wrapper over  a collection of scripts which help user to do a certain system wide tasks.
+Road Map:
+1) Add basic script and interface to interact using command line
+2) Allow user to create module to create custom automation
+3) Add speach recognition to perform the above said tasks
+4) Add smart device alteration tasks
+5) Add intelligence so that system can iteself create modules of autmated tasks based on human behaviour
